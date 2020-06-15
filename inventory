@@ -4,3 +4,4 @@
 35.183.135.142 ansible_user=ec2-user
 
 [node03]
+testing
